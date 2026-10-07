@@ -22,5 +22,3 @@ For this project we need:
 🔗 1 x FNIRSI DPS-150: https://s.click.aliexpress.com/e/_c3EPIPtP 
 
 🔗 1 x FNIRSI HS-02 Smart Soldering Iron: https://s.click.aliexpress.com/e/_c3K4TF9v
-
-And a 3D Printer to print the enclosure
